@@ -8,10 +8,10 @@ ul>
 <li><code>$ pip2 install mechanize</code></li>
 <li><code>$ pip2 install requests</code></li>
 <li><code>$ pkg install git</code></li>
-<li><code>$ git clone https://github.com/SansBae/dark-lite</code></li>
-<li><code>$ cd dark-lite</code></li>
+<li><code>$ git clone https://github.com/SansBae/evo-v1.0</code></li>
+<li><code>$ cd evo-v1.0</code></li>
 <li><code>$ ls</code></li>
-<li><code>$ python2 lite.py</code></li>
+<li><code>$ python2 evo.py</code></li>
 <ul>
 <li><code> Silahkan buka lewat gogle chrome! </code></li>
 </ul>
@@ -20,4 +20,4 @@ https://duit.cc/Mh5nL
 
 <br />
 <br />
-<img src="https://github.com/SansBae/dark-lite/blob/master/Screenshot_2020-05-13-08-22-31-63.png" />
+<img src="https://github.com/SansBae/evo-v1.0/blob/master/Screenshot_2020-05-21-10-46-48-02.png" />
