@@ -15,8 +15,7 @@ ul>
 <ul>
 <li><code> Silahkan buka lewat gogle chrome! </code></li>
 </ul>
-LISENSI KLIK DIBAWAH INI : 
-https://duit.cc/Mh5nL
+LISENSI KLIK DIBAWAH INI : https://bit.ly/3e2OVIX
 
 <br />
 <br />
